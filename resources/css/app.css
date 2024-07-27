@@ -1,0 +1,11 @@
+/* Add this to your CSS file or in a <style> tag in the Blade template */
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease-out;
+}
+
+.alert-dismissible {
+    position: relative;
+    padding-right: 4rem; /* Adjust if needed */
+}
